@@ -1,1 +1,403 @@
+{
+  "Cosmetics": [
+  {
+    "itemtype": "skin",
+    "name": "Ikonik To Logitech Ikonik",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788546327777351/LogitechIKONIK.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788546327777351/LogitechIKONIK.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788937996079104/pakchunkLogitech_ikonik-WindowsClient.pak",
+    "paknumber": "Logikonik",
+    "advanced": "false"
+  },
+      {
+    "itemtype": "skin",
+    "name": "Ikonik To Videostar Ikonik",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545103048724/VidstarIKONIK.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545103048724/VidstarIKONIK.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788827287425115/pakchunkVidstarIkonik-WindowsClient.pak",
+    "paknumber": "Vidikonik",
+    "advanced": "false"
+  },
+          {
+    "itemtype": "skin",
+    "name": "Ikonik To Pornhub Ikonik",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545711218759/PhubIKONIK.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545711218759/PhubIKONIK.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545711218759/PhubIKONIK.png",
+    "paknumber": "Phubikonik",
+    "advanced": "false"
 
+  },
+        {
+    "itemtype": "background",
+    "name": "s14 to C4S1",
+    "icon": "https://drive.google.com/thumbnail?id=1JEk5Bb6dMPObOp6JgUu6ojRwTiOcVesO",
+    "swapicon": "https://drive.google.com/thumbnail?id=1JEk5Bb6dMPObOp6JgUu6ojRwTiOcVesO",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113792347654848582/pakchunkC4S1-WindowsClient.pak",
+    "paknumber": "C4S1",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "s14 to Reality Tree",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114235395236962334/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114235395236962334/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114235395773837403/pakchunkRealityTreeBG-WindowsClient.pak",
+    "paknumber": "RealityTree",
+    "advanced": "false"
+  },
+      {
+    "itemtype": "background",
+    "name": "s14 to Stars",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113927255287136317/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113927255287136317/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113927255593340962/pakchunkStars-WindowsClient.pak",
+    "paknumber": "Stars",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to C4S2",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237528690663526/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237528690663526/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237529047183380/pakchunkC4S2-WindowsClient.pak",
+    "paknumber": "C4S2",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to C2S4",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237380770136105/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237380770136105/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237381332181082/pakchunkC2S6-WindowsClient.pak",
+    "paknumber": "C2S4",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to BlackMoon",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237228193959936/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237228193959936/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237228495929497/pakchunkBlackMoon-WindowsClient.pak",
+    "paknumber": "BlackMoon",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to C4S1",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236957694906478/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236957694906478/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236958315651092/pakchunkC4S1-WindowsClient.pak",
+    "paknumber": "C4S1",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to Electron",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236852614987836/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236852614987836/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236852912791622/pakchunkElectron1-WindowsClient.pak",
+    "paknumber": "Electron",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to ClassicRed",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236748260708362/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236748260708362/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236748604653588/pakchunkClassicred-WindowsClient.pak",
+    "paknumber": "ClassicRed",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to Belle",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236543511560283/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236543511560283/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236543738060830/pakchunkBelle-WindowsClient.pak",
+    "paknumber": "Belle",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to NeonBG",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236238199787691/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236238199787691/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114236237797138517/pakchunkNeonBGWindowsClient.pak",
+    "paknumber": "NeonBG",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to AnimeBalcony",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114522269788676107/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114522269788676107/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114522270161981571/pakchunkAnimeBalcony-WindowsClient.pak",
+    "paknumber": "AnimeBalcony",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to Halloween19",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114522424759832697/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114522424759832697/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114522425019871393/pakchunkHalloween19-WindowsClient.pak",
+    "paknumber": "Halloween19",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to TiltedBG",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114561173963153458/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114561173963153458/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114561173652779048/pakchunkTiltedBG-WindowsClient.pak",
+    "paknumber": "TiltedBG",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to SkyScraper",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114561103079419904/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114561103079419904/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114561103574356058/pakchunkSkyScrapper-WindowsClient.pak",
+    "paknumber": "SkyScraper",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to Nezuko",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114560900393865317/T_BP14_Lobby.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114560900393865317/T_BP14_Lobby.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114560900939132988/pakchunkNesuko-WindowsClient.pak",
+    "paknumber": "Nezuko",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "background",
+    "name": "S14 to C4S3",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1119580117136592937/Ch4_S3_Jungle_Background_.JPG",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1119580117136592937/Ch4_S3_Jungle_Background_.JPG",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1119580117342105670/pakchunkC4S3-WindowsClient.pak",
+    "paknumber": "C4S3",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "skin",
+    "name": "tigeress to BlueTigeress",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113834063241953382/WhiteTigeress.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113834063241953382/WhiteTigeress.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113834061887193159/pakchunkBlueTiger-WindowsClient.pak",
+    "paknumber": "BlueTiger",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "skin",
+    "name": "tigeress to BlackTigeress",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113834062486982830/BlackTigeress.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113834062486982830/BlackTigeress.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113834061404852274/pakchunkBlackTigeress-WindowsClient.pak",
+    "paknumber": "BlackTiger",
+    "advanced": "false"
+  },
+     {
+    "itemtype": "skin",
+    "name": "Summer Tigeress",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1119757457552593037/summertig.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1119757457552593037/summertig.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1119728850952269924/pakchunkSummerTigeress-WindowsClient.pak",
+    "paknumber": "SMRTGR",
+    "advanced": "false"
+  },
+    {
+    "itemtype": "skin",
+    "name": "Skull Trooper to Purple Skull",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114195086977274006/purpleskulltrooper.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114195086977274006/purpleskulltrooper.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114195087509954740/pakchunkPurpleSkull-WindowsClient.pak",
+    "paknumber": "PurpleSkull",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "skin",
+    "name": "US Skin to Skull Ranger US",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1116833582321766512/SkullSprangled_Ranger.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1116833582321766512/SkullSprangled_Ranger.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1116833651762675752/pakchunkFortnitel3gendsconcept-WindowsClient.pak",
+    "paknumber": "SkullRangerUS",
+    "advanced": "false"
+  },
+        {
+    "itemtype": "skin",
+    "name": "Cozy Chomps to Monster Chomps",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114231566894387200/MECozy.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114231566894387200/MECozy.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114231541862776934/pakchunkMonsterEnergyCozyChomps-WindowsClient.pak",
+    "paknumber": "MonsterChomps",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "skin",
+    "name": "CozyChomps to SummerChomps",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114282093309087784/SummerCozy.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114282093309087784/SummerCozy.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114282093799813120/pakchunkSummerCozy-WindowsClient.pak",
+    "paknumber": "SummerChomps",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "skin",
+    "name": "Shadow ops to BlueOps",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237756118421574/triumphantella.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237756118421574/triumphantella.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114237755606712421/pakchunkBlueShadowops-WindowsClient.pak",
+    "paknumber": "BlueOps",
+    "advanced": "false"
+  },
+
+  {
+    "itemtype": "backpacks",
+    "name": "Black Shield to LGBTQ+ Shield",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113924909542944838/GayBackbling.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113924909542944838/GayBackbling.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113924784670134302/pakchunkPrideShield-WindowsClient.pak",
+    "paknumber": "LGBTQShield",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "backpacks",
+    "name": "Black Shield to Quantum Shield",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114144473673371749/QuantumBackbling.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114144473673371749/QuantumBackbling.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114144471299407923/pakchunkQuantumShield-WindowsClient.pak",
+    "paknumber": "QuantumShield",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "misc",
+    "name": "Disco to Bonappetit",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939420383547572/T_Music_PreviewImage_Disco_L.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939420383547572/T_Music_PreviewImage_Disco_L.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939420614230046/pakchunkBonappetit-WindowsClient.pak",
+    "paknumber": "Bonappetit",
+    "advanced": "false"
+  },
+    {
+    "itemtype": "misc",
+    "name": "Disco to ClearEyesAidan",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939484690620648/T_Music_PreviewImage_Eerie_L.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939484690620648/T_Music_PreviewImage_Eerie_L.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939484950679602/pakchunkClearEyesAidan-WindowsClient.pak",
+    "paknumber": "ClearEyesAidan",
+    "advanced": "false"
+  },
+
+    {
+    "itemtype": "misc",
+    "name": "Ahoy! to Tag you're it",
+    "icon": "https://media.discordapp.net/attachments/1113788451540709496/1113939539665367201/T_Music_PreviewImage_PirateTheme_L.png",
+    "swapicon": "https://media.discordapp.net/attachments/1113788451540709496/1113939539665367201/T_Music_PreviewImage_PirateTheme_L.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939539904430140/pakchunkTagYoureIt-WindowsClient.pak",
+    "paknumber": "TagUrIt",
+    "advanced": "false"
+  },
+      {
+    "itemtype": "misc",
+    "name": "Squeaky Clean to Chiwawa",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939593813835776/T_Music_PreviewImage_SqueakyClean_L.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939593813835776/T_Music_PreviewImage_SqueakyClean_L.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939594031931413/pakchunkChiwawa-WindowsClient.pak",
+    "paknumber": "Chiwawa",
+    "advanced": "false"
+  },
+      {
+    "itemtype": "misc",
+    "name": "Twist to Goth Girl",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939634318221443/T_Music_PreviewImage_Twist_L.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939634318221443/T_Music_PreviewImage_Twist_L.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939634569871460/pakchunkGothGirl-WindowsClient.pak",
+    "paknumber": "GothGirl",
+    "advanced": "false"
+  },
+      {
+    "itemtype": "misc",
+    "name": "Limitless to Sweetest Pie",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939678970793994/T_Music_PreviewImages_Season12-T-Music-Season12-Music-Overdrive-L.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939678970793994/T_Music_PreviewImages_Season12-T-Music-Season12-Music-Overdrive-L.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939679239209030/pakchunkSweetestPie-WindowsClient.pak",
+    "paknumber": "SweetestPie",
+    "advanced": "false"
+  },
+      {
+    "itemtype": "misc",
+    "name": "OG Remix to Washing Machine Heart",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939876476354600/T_Music_PreviewImage_OGRemix_L.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939876476354600/T_Music_PreviewImage_OGRemix_L.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113939876711239771/pakchunkWashingMachineHeart-WindowsClient.pak",
+    "paknumber": "WashingMachineHeart",
+    "advanced": "false"
+  },
+          {
+    "itemtype": "misc",
+    "name": "Electro-fied! to Nymphology",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114208137671618701/portalsmusic.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114208137671618701/portalsmusic.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114208178700308480/pakchunkNymphology-WindowsClient.pak",
+    "paknumber": "Nymphology",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "misc",
+    "name": "Electro-fied! to Shutdown",
+    "icon": "https://media.discordapp.net/attachments/1113788451540709496/1114556079221776394/shutdown.png",
+    "swapicon": "https://media.discordapp.net/attachments/1113788451540709496/1114556079221776394/shutdown.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114556079431483522/pakchunkShutdown-WindowsClient.pak",
+    "paknumber": "Shutdown",
+    "advanced": "false"
+  },
+        {
+    "itemtype": "misc",
+    "name": "Lots of emoticons to Splatoon emojis",
+    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114137891254304818/S3_Sticker_SQDSN-B_character.png",
+    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1114137891254304818/S3_Sticker_SQDSN-B_character.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114137928726224908/pakchunkSplatoonEmojis-WindowsClient.pak",
+    "paknumber": "SplatoonEmojis",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "emotes",
+    "name": "Phone it in to GalaxySax",
+    "icon": "https://image.fnbr.co/emote/5bfd1e7b247b5603b215261f/icon.png",
+    "swapicon": "https://image.fnbr.co/emote/5bfd1e7b247b5603b215261f/icon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114285595099938946/pakchunkConstellationSaxaphone-WindowsClient.pak",
+    "paknumber": "GalaxySax",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "emotes",
+    "name": "Ribbon Dancer to Galatic Dancer",
+    "icon": "https://image.fnbr.co/emote/5ee9cfc6e59f83a29d4ac806/icon.png",
+    "swapicon": "https://image.fnbr.co/emote/5ee9cfc6e59f83a29d4ac806/icon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114285597838803137/pakchunkGalaxyRibbonDancer-WindowsClient.pak",
+    "paknumber": "GalaticDancer",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "emotes",
+    "name": "Say so to Say so Remix",
+    "icon": "https://image.fnbr.co/emote/5f474ef163ee8b341ee9ae6f/icon.png",
+    "swapicon": "https://image.fnbr.co/emote/5f474ef163ee8b341ee9ae6f/icon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114555354634784818/pakchunkSaySoRemix-WindowsClient.pak",
+    "paknumber": "SaySoRemix",
+    "advanced": "false"
+  },
+  {
+    "itemtype": "emotes",
+    "name": "Scenario to Scenario Remix",
+    "icon": "https://image.fnbr.co/emote/5c77cec2626179db3449f108/icon.png",
+    "swapicon": "https://image.fnbr.co/emote/5c77cec2626179db3449f108/icon.png",
+    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1114557881187053618/pakchunkCustomikonikemote-WindowsClient.pak",
+    "paknumber": "ScenRemix",
+    "advanced": "false"
+  },
+],
+}
