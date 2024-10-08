@@ -220,9 +220,9 @@
   {
     "itemtype": "skin",
     "name": "US Skin to Skull Ranger US",
-    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1116833582321766512/SkullSprangled_Ranger.png",
-    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1116833582321766512/SkullSprangled_Ranger.png",
-    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1116833651762675752/pakchunkFortnitel3gendsconcept-WindowsClient.pak",
+    "icon": "https://raw.githubusercontent.com/sgtflixy/quantumfiles/refs/heads/main/SkullSprangled_Ranger.png?token=GHSAT0AAAAAACYQWUKJYN5H4CJA62K5TQR4ZYFKIPA",
+    "swapicon": "https://raw.githubusercontent.com/sgtflixy/quantumfiles/refs/heads/main/SkullSprangled_Ranger.png?token=GHSAT0AAAAAACYQWUKJYN5H4CJA62K5TQR4ZYFKIPA",
+    "pak": "https://github.com/sgtflixy/quantumfiles/raw/refs/heads/main/pakchunkFortnitel3gendsconcept-WindowsClient.pak",
     "paknumber": "SkullRangerUS",
     "advanced": "false"
   },
