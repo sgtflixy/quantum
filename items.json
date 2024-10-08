@@ -3,27 +3,27 @@
   {
     "itemtype": "skin",
     "name": "Ikonik To Logitech Ikonik",
-    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788546327777351/LogitechIKONIK.png",
-    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788546327777351/LogitechIKONIK.png",
-    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788937996079104/pakchunkLogitech_ikonik-WindowsClient.pak",
+    "icon": "https://raw.githubusercontent.com/sgtflixy/quantumfiles/refs/heads/main/LogitechIKONIK.png",
+    "swapicon": "https://image.fnbr.co/outfit/5c77cf5562617938a949f10e/icon.png",
+    "pak": "https://github.com/sgtflixy/quantumfiles/raw/refs/heads/main/pakchunkLogikonik-WindowsClient.pak",
     "paknumber": "Logikonik",
     "advanced": "false"
   },
       {
     "itemtype": "skin",
     "name": "Ikonik To Videostar Ikonik",
-    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545103048724/VidstarIKONIK.png",
-    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545103048724/VidstarIKONIK.png",
-    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788827287425115/pakchunkVidstarIkonik-WindowsClient.pak",
+    "icon": "https://raw.githubusercontent.com/sgtflixy/quantumfiles/refs/heads/main/VidstarIKONIK.png",
+    "swapicon": "https://image.fnbr.co/outfit/5c77cf5562617938a949f10e/icon.png",
+    "pak": "https://github.com/sgtflixy/quantumfiles/raw/refs/heads/main/pakchunkVidstarIkonik-WindowsClient.pak",
     "paknumber": "Vidikonik",
     "advanced": "false"
   },
           {
     "itemtype": "skin",
     "name": "Ikonik To Pornhub Ikonik",
-    "icon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545711218759/PhubIKONIK.png",
-    "swapicon": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545711218759/PhubIKONIK.png",
-    "pak": "https://cdn.discordapp.com/attachments/1113788451540709496/1113788545711218759/PhubIKONIK.png",
+    "icon": "https://raw.githubusercontent.com/sgtflixy/quantumfiles/refs/heads/main/PhubIKONIK.png",
+    "swapicon": "https://image.fnbr.co/outfit/5c77cf5562617938a949f10e/icon.png",
+    "pak": "https://github.com/sgtflixy/quantumfiles/raw/refs/heads/main/pakchunkPhubIkonik-WindowsClient.pak",
     "paknumber": "Phubikonik",
     "advanced": "false"
 
